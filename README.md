@@ -1,2 +1,2 @@
-# todo-app
-A simple todo app developed using codeigniter 4, ajax, datatable, and mysql
+# task-app
+A simple task tracking app developed using codeigniter 4, ajax, datatable, and mysql
